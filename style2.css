@@ -1,0 +1,124 @@
+body { 
+    background-repeat: no-repeat;
+    /* background-position: 100% 100%  ; */
+    background-attachment: fixed;
+    background-size:cover ;
+    font-size: 16px;
+      font-weight: normal;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+     margin: 0;
+     
+      font-family: Arial, Helvetica, sans-serif;
+      width: 100%;
+   
+  }
+ /* .main {
+   
+
+ } */
+ h2 {
+     font-size: 30px;
+ }
+  .info-text { 
+  position: relative;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin-left: 30px;
+  left: 450px;
+  bottom: 350px;
+  color: rgb(235, 231, 231);
+  font-size: 0.4em;
+  
+  }
+
+  .topnav { 
+     
+    /* position: relative; */
+    margin-top: -130px;
+    background-color: rgb(19, 18, 18);
+    overflow: hidden ;
+    border:0;
+    box-shadow: 0px 0px 50px   #ffd700; 
+    top: -130px;
+    
+    
+    
+
+}
+.topnav a {
+    left: 300px;
+    position: relative;
+    float: left;
+    color: #ffd700;
+    text-align: left;
+    padding: 10px 11px ;
+    text-decoration: none;
+    font-size: 31px;
+     
+}
+
+.topnav a:hover {
+    background-color: rgb(236, 236, 236);
+    color: rgb(0, 0, 0);
+    
+}
+
+.topnav a.active :hover {
+    background-color: #fafdff;
+    color: rgb(231, 231, 231);
+    
+}
+
+.icon {
+    
+    /* display: block; */
+    width: 100%;
+    border: solid#ffd700 5px;
+    box-shadow: 0px 0px 50px #ffd700;
+    top: -40px;
+    position: relative;
+    border-radius: 50%;
+    width: 170px;
+    left: 70px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    
+  }
+  h1 {
+    margin-bottom: -10px;
+  }
+  p {
+      position: relative;
+      bottom: 15px;
+    margin-bottom: -50px;
+    font-size: 20px;
+  }
+  .first {
+    position: relative;
+  color: #ffd700;
+     font-family: 'Lucida Sans',
+      'Lucida Sans Regular', 
+      'Lucida Grande', 'Lucida Sans Unicode', 
+      Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+
+  .ava {  
+     
+     position: relative;
+    margin-left: 60px;
+    max-width: 100%;
+    width: 350px;
+    top: 50px;
+    left: 30px;
+    border-radius: 30%;
+    box-shadow: 0px 0px 14px   rgb(247, 247, 247);    
+    }
+  
+ 
